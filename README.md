@@ -3,13 +3,7 @@
 
 > Atualmente cursando o 2° período de Sistemas de Informação - UFPI CSHNB
 
-🔭 Atualmente estudando a linguagem Python
-🔭 Atualmente estudando a linguagem C
 🔭 Atualmente estudando CyberSigurity
-
-Dominios Html5
-Dominios CSS5
-Dominios Javascr
 
 ----
 
