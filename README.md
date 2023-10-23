@@ -1,5 +1,5 @@
-[![wakatime](https://wakatime.com/badge/user/018b5cfe-36d3-4466-8597-ce88ff5435c6.svg)](https://wakatime.com/@018b5cfe-36d3-4466-8597-ce88ff5435c6)
-[![wakatime](https://wakatime.com/badge/github/yGlaimes/C_Class.svg)](https://wakatime.com/badge/github/yGlaimes/C_Class)
+[![wakatime](https://wakatime.com/badge/github/yGlaimes/yGlaimes.svg)](https://wakatime.com/badge/github/yGlaimes/yGlaimes)
+[![wakatime](https://wakatime.com/badge/user/018b5cfe-36d3-4466-8597-ce88ff5435c6/project/018b5ecc-4de0-4b7e-91d9-4af969f263b5.svg)](https://wakatime.com/badge/user/018b5cfe-36d3-4466-8597-ce88ff5435c6/project/018b5ecc-4de0-4b7e-91d9-4af969f263b5)
 ## Olá, meu nome é <strong>Kauã Henrique!</strong>👋
 
 > Atualmente cursando o 2° período de Sistemas de Informação - UFPI CSHNB
@@ -8,7 +8,6 @@
 
 ----
 
-[![wakatime](https://wakatime.com/badge/user/018b5cfe-36d3-4466-8597-ce88ff5435c6.svg)](https://wakatime.com/@018b5cfe-36d3-4466-8597-ce88ff5435c6)
 
 ## 🚀 O que eu já estudei
 
