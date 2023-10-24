@@ -4,7 +4,8 @@
 
 > Atualmente cursando o 2° período de Sistemas de Informação - UFPI CSHNB
 
-🔭 Atualmente estudando CyberSigurity
+🔭 Desenvolvendo CyberSigurity
+🔭 Desenvolvendo Python
 
 ----
 
