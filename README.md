@@ -1,5 +1,3 @@
-[![wakatime](https://wakatime.com/badge/github/yGlaimes/Meus-Estudos-Global.svg)](https://wakatime.com/badge/github/yGlaimes/Meus-Estudos-Global)
-[![wakatime](https://wakatime.com/badge/user/018b5cfe-36d3-4466-8597-ce88ff5435c6/project/018b5ecc-4de0-4b7e-91d9-4af969f263b5.svg)](https://wakatime.com/badge/user/018b5cfe-36d3-4466-8597-ce88ff5435c6/project/018b5ecc-4de0-4b7e-91d9-4af969f263b5)
 [![wakatime](https://wakatime.com/badge/user/018b5cfe-36d3-4466-8597-ce88ff5435c6.svg)](https://wakatime.com/@018b5cfe-36d3-4466-8597-ce88ff5435c6)
 ## Olá, meu nome é <strong>Kauã Henrique!</strong>👋
 
