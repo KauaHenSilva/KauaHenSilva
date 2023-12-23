@@ -19,7 +19,7 @@
 <code><img height="32" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Vscode"/></code>
 <code><img height="32"
-src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg"  alt="Flutter" /><code>
+src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg"  alt="Flutter"/></code>
 
 
 ---
