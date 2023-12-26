@@ -1,5 +1,3 @@
-Tempo de desenvolvimento: [![wakatime](https://wakatime.com/badge/user/018b5cfe-36d3-4466-8597-ce88ff5435c6.svg)](https://wakatime.com/@018b5cfe-36d3-4466-8597-ce88ff5435c6)
-
 ## Olá, meu nome é <strong>Kauã Henrique!</strong>👋
 
 > Atualmente cursando o 2° período de Sistemas de Informação - UFPI CSHNB
@@ -25,7 +23,7 @@ src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/publi
 
 ---
 
-## Informações sobre minha conta GitHub
+## Informações sobre minha conta GitHub [![wakatime](https://wakatime.com/badge/user/018b5cfe-36d3-4466-8597-ce88ff5435c6.svg)](https://wakatime.com/@018b5cfe-36d3-4466-8597-ce88ff5435c6)
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yGlaimes&show_icons=true&count_private-true&hide_border=true&title_color=596087&icon_color=596087&text_color=ffffff&bg_color=0d1117" alt=Daniel Rodrigues Github Stats" />
 <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yGlaimes&layout=compact&hide_border=true&title_color=596087&text_color=ffffff&bg_color=0d1117" />
