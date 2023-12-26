@@ -1,4 +1,5 @@
-[![wakatime](https://wakatime.com/badge/user/018b5cfe-36d3-4466-8597-ce88ff5435c6.svg)](https://wakatime.com/@018b5cfe-36d3-4466-8597-ce88ff5435c6)
+Tempo de desenvolvimento: [![wakatime](https://wakatime.com/badge/user/018b5cfe-36d3-4466-8597-ce88ff5435c6.svg)](https://wakatime.com/@018b5cfe-36d3-4466-8597-ce88ff5435c6)
+
 ## Olá, meu nome é <strong>Kauã Henrique!</strong>👋
 
 > Atualmente cursando o 2° período de Sistemas de Informação - UFPI CSHNB
