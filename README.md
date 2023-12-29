@@ -9,7 +9,7 @@
 ----
 
 
-## 🚀 O que eu já estudei
+## 🚀 Conhecimentos
 
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python"/></code>
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" alt="Dart"/></code>
