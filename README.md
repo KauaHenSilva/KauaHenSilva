@@ -26,5 +26,4 @@ src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" a
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KauaHenSilva&bg_color=0d1117&color=ffffff&line=596087&point=596087&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
-
-
+<figure><embed src="https://wakatime.com/share/@KauaHenSilva/a0fe46e4-28fc-4963-8659-059204e49752.svg"></embed></figure>
