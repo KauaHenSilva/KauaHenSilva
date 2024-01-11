@@ -1,4 +1,3 @@
-## Meu nome é <strong>Kauã Henrique!</strong>👋
 
 > Atualmente cursando o 2° período de Sistemas de Informação na UFPI CSHNB
 
