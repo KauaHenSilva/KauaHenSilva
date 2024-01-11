@@ -1,5 +1,5 @@
 
-> Atualmente cursando o 2° período de Sistemas de Informação na UFPI CSHNB
+> 2° período de Sistemas de Informação na UFPI CSHNB
 
 ----
 
