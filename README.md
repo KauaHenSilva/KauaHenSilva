@@ -28,7 +28,8 @@
 
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KauaHenSilva&layout=compact&hide_title=true&hide_border=true&bg_color=ffffff00&theme=xcode&point=ffffff&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KauaHenSilva&hide_title=true&color=ffffff&bg_color=ffffff00&line=ffffff&point=ffffff&area=true&area_color=fefcfb&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=999999&height=120&section=footer"/>
