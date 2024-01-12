@@ -13,7 +13,7 @@
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Light.svg" alt="Flutter"/></code>
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" alt="Git"/></code>
 
-## Linguagem Trabalalhadas:
+## Linguagem Trabalhadas:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KauaHenSilva&layout=compact&bg_color=ffffff00&title_color=ffffff&text_color=ffffff&hide_border=true&locale=pt-br&show_icons=true&rank_icon=github&hide_title=true&include_all_commits=true&langs_count=2&langs_count_private=2&languages=python,javascript,html,css,java" alt="Wakatime Stats"/>
