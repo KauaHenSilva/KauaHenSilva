@@ -22,8 +22,8 @@
 ## Contibuições:
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KauaHenSilva&theme=dark&locale=Pt-BR&hide_border=true&bg_color=ffffff00&show_icons=true&rank_icon=github" alt="Kaua Hen Status" />
-  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaHenSilva&locale=Pt-BR&theme=dark&hide_border=true&bg_color=ffffff00&layout=compact" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KauaHenSilva&theme=dark&locale=Pt-BR&hide_border=true&bg_color=ffffff00&show_icons=true&rank_icon=github&title_color=808080" alt="Kaua Hen Status" />
+  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaHenSilva&locale=Pt-BR&theme=dark&hide_border=true&bg_color=ffffff00&layout=compact&title_color=808080" />
 </div>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KauaHenSilva&hide_title=true&color=808080&bg_color=ffffff00&line=808080&point=808080&area=true&area_color=808080&hide_border=true)
