@@ -26,6 +26,6 @@
   <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaHenSilva&locale=Pt-BR&theme=dark&hide_border=true&bg_color=ffffff00&layout=compact" />
 </div>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KauaHenSilva&hide_title=true&color=ffffff&bg_color=ffffff00&line=ffffff&point=ffffff&area=true&area_color=fefcfb&hide_border=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KauaHenSilva&hide_title=true&color=ffffff&bg_color=ffffff00&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true)]
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=999999&height=120&section=footer"/>
