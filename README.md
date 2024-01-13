@@ -4,7 +4,7 @@
 
 > Desenvolvedor Mobile e Desktop.
 
-> 2° período de Sistemas de Informação - UFPI CSHNB
+> 2° período Sistemas de Informação - UFPI CSHNB
 
 ## Conhecimentos:
 
