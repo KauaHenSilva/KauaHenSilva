@@ -8,6 +8,7 @@
 
 ## Conhecimentos:
 
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="C"/></code>
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C"/></code>
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Light.svg" alt="Dart"/></code>
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Light.svg" alt="Flutter"/></code>
