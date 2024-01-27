@@ -9,7 +9,7 @@
 ## Conhecimentos:
 
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C"/></code>
-<code><img height="32 src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Light.svg" alt="Dart"/></code>
+<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Light.svg" alt="Dart"/></code>
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Light.svg" alt="Flutter"/></code>
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="Python"/></code>
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" alt="Git"/></code>
