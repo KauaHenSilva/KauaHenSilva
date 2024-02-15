@@ -16,7 +16,7 @@
 ## Linguagens Trabalhadas:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KauaHenSilva&layout=compact&bg_color=ffffff00&title_color=808080&text_color=808080&hide_border=true&locale=pt-br&show_icons=true&rank_icon=github&hide_title=true&include_all_commits=true&langs_count=6" alt="Wakatime Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KauaHenSilva&layout=compact&bg_color=ffffff00&title_color=808080&text_color=808080&hide_border=true&locale=pt-br&show_icons=true&rank_icon=github&hide_title=true&include_all_commits=true&langs_count=4" alt="Wakatime Stats"/>
 </div>
 
 ## Contibuições:
