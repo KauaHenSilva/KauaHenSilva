@@ -9,9 +9,12 @@
 ## Skills:
 
 <img src="https://img.shields.io/badge/-flutter-808080?style=for-the-badge&logo=flutter&logoColor=f5f5f5">&nbsp;
-<img src="https://img.shields.io/badge/-Dart-808080?style=for-the-badge&logo=dart&logoColor=f5f5f5">&nbsp;
-<img src="https://img.shields.io/badge/-Python-808080?style=for-the-badge&logo=python&logoColor=f5f5f5">&nbsp;
-<img src="https://img.shields.io/badge/-C-808080?style=for-the-badge&logo=C&logoColor=f5f5f5">&nbsp;
+<img src="https://img.shields.io/badge/-dart-808080?style=for-the-badge&logo=dart&logoColor=f5f5f5">&nbsp;
+<img src="https://img.shields.io/badge/-firebase-808080?style=for-the-badge&logo=firebase&logoColor=f5f5f5">&nbsp;
+<img src="https://img.shields.io/badge/-sqlite-808080?style=for-the-badge&logo=sqlite&logoColor=f5f5f5">&nbsp;
+<img src="https://img.shields.io/badge/-git-808080?style=for-the-badge&logo=git&logoColor=f5f5f5">&nbsp;
+<img src="https://img.shields.io/badge/-python-808080?style=for-the-badge&logo=python&logoColor=f5f5f5">&nbsp;
+<img src="https://img.shields.io/badge/-c-808080?style=for-the-badge&logo=C&logoColor=f5f5f5">&nbsp;
 
 ## Worked Languages:
 
