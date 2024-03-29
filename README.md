@@ -14,12 +14,6 @@
 <img src="https://img.shields.io/badge/-python-808080?style=for-the-badge&logo=python&logoColor=f5f5f5">&nbsp;
 <img src="https://img.shields.io/badge/-c-808080?style=for-the-badge&logo=C&logoColor=f5f5f5">&nbsp;
 
-## Worked Languages:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KauaHenSilva&layout=compact&bg_color=ffffff00&title_color=808080&text_color=808080&hide_border=true&show_icons=true&rank_icon=github&hide_title=true&include_all_commits=true&langs_count=4" alt="Wakatime Stats"/>
-</div>
-
 ## Contributions:
 
 <div align="center">
