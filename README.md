@@ -18,7 +18,7 @@
 ## Contributions:
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KauaHenSilva&theme=dark&hide_border=true&bg_color=ffffff00&show_icons=true&rank_icon=github&title_color=808080" alt="KauaHen Status" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KauaHenSilva&theme=dark&hide_border=true&bg_color=ffffff00&show_icons=true&title_color=808080" alt="KauaHen Status" />
   <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaHenSilva&&theme=dark&hide_border=true&bg_color=ffffff00&layout=compact&title_color=808081" alt="KauaHen Status"  />
 </div>
 
