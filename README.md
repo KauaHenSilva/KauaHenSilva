@@ -1,5 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Staatliches&size=35&pause=1000&color=f5f5f5&vCenter=true&center=true&width=1000&lines=Federal+University+of+Piau%C3%AD)](https://git.io/typing-svg)
+
+
 <div align="center">
   <img src="https://img.shields.io/badge/-flutter-808080?style=for-the-badge&logo=flutter&logoColor=f5f5f5">&nbsp;
   <img src="https://img.shields.io/badge/-dart-808080?style=for-the-badge&logo=dart&logoColor=f5f5f5">&nbsp;
