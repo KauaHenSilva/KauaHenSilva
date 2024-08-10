@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/-sqlite-808080?style=for-the-badge&logo=sqlite&logoColor=f5f5f5">&nbsp;
 <img src="https://img.shields.io/badge/-Redis-808080?style=for-the-badge&logo=Redis&logoColor=f5f5f5">&nbsp;
 <img src="https://img.shields.io/badge/-postgresql-808080?style=for-the-badge&logo=postgresql&logoColor=f5f5f5">&nbsp;
+<img src="https://img.shields.io/badge/-mysql-808080?style=for-the-badge&logo=mysql&logoColor=f5f5f5">&nbsp;
 
 </div>
 
