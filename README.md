@@ -10,9 +10,6 @@
     <img src="https://img.shields.io/badge/-python-808080?style=for-the-badge&logo=python&logoColor=f5f5f5">&nbsp;
     <img src="https://img.shields.io/badge/-c-808080?style=for-the-badge&logo=C&logoColor=f5f5f5">&nbsp;
     <img src="https://img.shields.io/badge/-javascript-808080?style=for-the-badge&logo=javascript&logoColor=f5f5f5">&nbsp;
-</div>
-
-<div align="center">
     <img src="https://img.shields.io/badge/-git-808080?style=for-the-badge&logo=git&logoColor=f5f5f5">&nbsp;
     <img src="https://img.shields.io/badge/-docker-808080?style=for-the-badge&logo=docker&logoColor=f5f5f5">&nbsp;
     <img src="https://img.shields.io/badge/-firebase-808080?style=for-the-badge&logo=firebase&logoColor=f5f5f5">&nbsp;
