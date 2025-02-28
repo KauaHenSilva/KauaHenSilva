@@ -9,7 +9,7 @@
 <!-- Seção LinkedIn Multilíngue -->
 <div align="center">
   <p><strong>🌐 Quer saber mais sobre mim? Acesse meu LinkedIn!</strong></p>
-  <a href="https://www.linkedin.com/in/kauahensilva" target="_blank">
+  <a href="https://www.linkedin.com/in/kauahenr/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
 </div>
